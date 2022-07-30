@@ -3,7 +3,7 @@
 
 ## 1.Steps of Install and run Ubuntu On Jetson Nano
 
-1.Download Xubuntu-20.04-l4t-r32.3.1.tar.tbz2
+1.Download [Xubuntu-20.04-l4t-r32.3.1.tar.tbz2](https://github.com/Discombobulated88/Xubuntu-20.04-L4T-32.3.1/releases/download/v1.0/Xubuntu-20.04-l4t-r32.3.1.tar.tbz2)
 
 2.1.Flash the image to SD cards: download for linux x64 
 right click on balena-etcher-electron-1.5.109-linux-x64.zip >> Open With Archive Manager >> Extract Here
